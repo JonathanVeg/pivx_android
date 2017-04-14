@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c4c7c</color>
+    <color name="colorPrimaryDark">#372d44</color>
+    <!-- <color name="colorAccent">#bcbfbf</color> -->
+    <color name="colorAccent">#5c4c7c</color>
+    <color name="colorChangesUp">#41BF53</color>
+    <color name="transparent_silver">#88e0e0e0</color>
+
+    <color name="colorChangesDown">#FD714A</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="silver">#e0e0e0</color>
+
+    <color name="transparent_white">#DDFFFFFF</color>
+</resources>
