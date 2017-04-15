@@ -28,9 +28,9 @@
             android:layout_width="wrap_content"
             android:layout_height="60dp"
             android:layout_gravity="center"
-            android:contentDescription="DCR Logo"
+            android:contentDescription="PIVX Logo"
             android:visibility="gone"
-            app:srcCompat="@drawable/dcr_icon" />
+            app:srcCompat="@drawable/pivx_icon" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -44,7 +44,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Alert me when Decred get\'s " />
+            android:text="Alert me when Pivx get\'s " />
 
         <Spinner
             android:id="@+id/sOptions"
@@ -65,21 +65,24 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Alert for exchanges:"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:visibility="gone" />
 
         <CheckBox
             android:id="@+id/cbAlertPoloniex"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:checked="true"
-            android:text="Poloniex" />
+            android:checked="false"
+            android:text="Poloniex"
+            android:visibility="gone" />
 
         <CheckBox
             android:id="@+id/cbAlertBittrex"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="true"
-            android:text="Bittrex" />
+            android:text="Bittrex"
+            android:visibility="gone" />
 
         <Button
             android:id="@+id/bSaveAlert"

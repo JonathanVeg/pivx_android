@@ -8,20 +8,13 @@
     android:orientation="vertical"
     android:visibility="visible">
 
-    <LinearLayout
-        android:layout_width="0px"
-        android:layout_height="0px"
-        android:focusable="true"
-        android:focusableInTouchMode="true"
-        android:orientation="vertical" />
-
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="60dp"
         android:layout_gravity="center"
-        android:contentDescription="DCR Logo"
+        android:contentDescription="PIVX Logo"
         android:visibility="gone"
-        app:srcCompat="@drawable/dcr_icon" />
+        app:srcCompat="@drawable/pivx_icon" />
 
     <TextView
         android:id="@+id/tvAboutDeveloper"
@@ -48,7 +41,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:padding="5dp"
-        android:visibility="gone">
+        android:visibility="visible">
 
         <TextView
             android:id="@+id/tvAboutDonate"
@@ -64,7 +57,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="loading wallet"
+            android:text="DKwmFeqEVh2DP4jz4q96WLhuGidkHV9jSF"
             android:textSize="12sp"
             android:textStyle="bold" />
     </LinearLayout>

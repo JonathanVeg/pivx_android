@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="altcoin.br.decred"
-    android:versionCode="4"
-    android:versionName="2.1" >
+    package="altcoin.br.pivx"
+    android:versionCode="1"
+    android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -14,60 +14,48 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="altcoin.br.decred.permission.C2D_MESSAGE"
+        android:name="altcoin.br.pivx.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="altcoin.br.decred.permission.C2D_MESSAGE" />
+    <uses-permission android:name="altcoin.br.pivx.permission.C2D_MESSAGE" />
 
     <application
-        android:name="altcoin.br.decred.application.MyApplication"
+        android:name="altcoin.br.pivx.application.MyApplication"
         android:allowBackup="true"
-        android:icon="@drawable/dcr_icon"
+        android:icon="@drawable/pivx_icon"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="altcoin.br.decred.MainActivity" >
+        <activity
+            android:name="altcoin.br.pivx.MainActivity"
+            android:configChanges="orientation|screenSize" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="altcoin.br.decred.CalculatorActivity"
-            android:label="@string/title_activity_calculator" />
-        <activity
-            android:name="altcoin.br.decred.WalletsActivity"
-            android:label="@string/title_activity_wallets" />
 
         <service
-            android:name="altcoin.br.decred.services.PriceAlertService"
+            android:name="altcoin.br.pivx.services.PriceAlertService"
             android:enabled="true" />
 
         <meta-data
             android:name="io.fabric.ApiKey"
             android:value="1b9e889468bf967dddcafc0104451052e83223bd" />
 
-        <receiver android:name="altcoin.br.decred.widget.CoinWidgetProvider" >
+        <receiver android:name="altcoin.br.pivx.widget.CoinWidgetProvider" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-                <action android:name="android.appwidget.action.UPDATE_DRC_WIDGET" />
+                <action android:name="android.appwidget.action.UPDATE_PIVX_WIDGET" />
             </intent-filter>
 
             <meta-data
                 android:name="android.appwidget.provider"
                 android:resource="@xml/appwidget_provider_info" />
         </receiver>
-
-        <activity
-            android:name="altcoin.br.decred.AboutActivity"
-            android:label="@string/title_activity_about" />
-        <activity
-            android:name="altcoin.br.decred.AlertActivity"
-            android:label="@string/title_activity_alerts" />
-
         <receiver
-            android:name="altcoin.br.decred.ReceiverOnBootComplete"
+            android:name="altcoin.br.pivx.ReceiverOnBootComplete"
             android:enabled="true"
             android:exported="false" >
             <intent-filter>
@@ -75,15 +63,15 @@
             </intent-filter>
         </receiver>
         <receiver
-            android:name="altcoin.br.decred.RestartPriceAlertService"
+            android:name="altcoin.br.pivx.RestartPriceAlertService"
             android:enabled="true"
             android:exported="false" >
             <intent-filter>
-                <action android:name="DecredKillPriceAlertService" />
+                <action android:name="PivxKillPriceAlertService" />
             </intent-filter>
         </receiver>
 
-        <activity android:name="altcoin.br.decred.widget.ConfigureWidgetActivity" />
+        <activity android:name="altcoin.br.pivx.widget.ConfigureWidgetActivity" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
@@ -95,7 +83,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="altcoin.br.decred.firebaseinitprovider"
+            android:authorities="altcoin.br.pivx.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -120,7 +108,7 @@
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="altcoin.br.decred" />
+                <category android:name="altcoin.br.pivx" />
             </intent-filter>
         </receiver>
         <!--

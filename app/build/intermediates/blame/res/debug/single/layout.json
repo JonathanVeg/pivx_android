@@ -8,12 +8,12 @@
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/layout/calculator.xml"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/layout/ll_footer.xml",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/layout/ll_footer.xml"
+    },
+    {
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",

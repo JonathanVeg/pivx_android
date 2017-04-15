@@ -184,6 +184,10 @@
         "source": "/home/jonathan/Desktop/decred_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ic_search_api_material.xml"
     },
     {
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable/pivx_icon_recursos.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable/pivx_icon_recursos.png"
+    },
+    {
         "merged": "/home/jonathan/Desktop/decred_android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/home/jonathan/Desktop/decred_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
@@ -354,6 +358,10 @@
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
         "source": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable/pivx_icon_512.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable/pivx_icon_512.png"
     },
     {
         "merged": "/home/jonathan/Desktop/decred_android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",

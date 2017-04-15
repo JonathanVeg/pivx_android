@@ -1162,13 +1162,11 @@ public class MainActivity extends Activity {
     }
 
     private void execApiCall(Response.Listener<String> listener) {
-
         String url = "https://api.coinmarketcap.com/v1/ticker/pivx/";
 
         InternetRequests internetRequests = new InternetRequests();
 
         internetRequests.executeGet(url, listener);
-
     }
 
     private void prepareLinks() {
@@ -1182,6 +1180,7 @@ public class MainActivity extends Activity {
             value += "Twitter,https://twitter.com/_pivx,";
             value += "-,-,";
             value += "Dev Twitter,https://twitter.com/JonathanVeg2,";
+            value += "My app for Bittrex,https://bit.ly/trextracker2,";
 
             List<Link> localLinks = new ArrayList<>();
 

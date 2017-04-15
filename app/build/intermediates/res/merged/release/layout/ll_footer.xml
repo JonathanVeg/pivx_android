@@ -9,7 +9,7 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@color/silver"
-        android:src="@drawable/bdark_ic_action_list" />
+        android:src="@drawable/plight_ic_action_list" />
 
     <ImageView
         android:id="@+id/bChart"
@@ -17,7 +17,7 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@color/transparent_silver"
-        android:src="@drawable/bdark_bdark_ic_action_line_chart" />
+        android:src="@drawable/plight_ic_action_line_chart" />
 
     <ImageView
         android:id="@+id/bCalculator"
@@ -25,7 +25,7 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@color/transparent_silver"
-        android:src="@drawable/bdark_ic_action_calculator" />
+        android:src="@drawable/plight_ic_action_calculator" />
 
     <ImageView
         android:id="@+id/bAlerts"
@@ -33,7 +33,7 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@color/transparent_silver"
-        android:src="@drawable/bdark_ic_action_bell"
+        android:src="@drawable/plight_ic_action_bell"
         android:visibility="visible" />
 
     <ImageView
@@ -42,7 +42,7 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@color/transparent_silver"
-        android:src="@drawable/bdark_bdark_ic_action_achievement"
+        android:src="@drawable/plight_ic_action_achievement"
         android:visibility="gone" />
 
     <ImageView
@@ -51,5 +51,5 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:background="@color/transparent_silver"
-        android:src="@drawable/bdark_ic_action_info" />
+        android:src="@drawable/plight_ic_action_info" />
 </LinearLayout>

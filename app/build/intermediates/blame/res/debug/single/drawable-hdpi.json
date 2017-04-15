@@ -52,52 +52,52 @@
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_halt.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_share.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_share.png"
-    },
-    {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_send.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_send.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_camera.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_camera.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_share.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_share.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_lock_open.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_lock_open.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_plug.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_plug.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_camera.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_camera.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_tiles_large.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_tiles_large.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_plug.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_plug.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_emo_basic.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_emo_basic.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_notifications_off_black_24dp.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/ic_notifications_off_black_24dp.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_tiles_large.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_tiles_large.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_lab.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_lab.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_notifications_off_black_24dp.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/ic_notifications_off_black_24dp.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_phone.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_phone.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_more.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_more.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_lab.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_lab.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_grow.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_grow.png"
+    },
+    {
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_more.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_more.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_barcode_2.png",
@@ -160,40 +160,40 @@
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_magnet.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_font_faces.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_font_faces.png"
-    },
-    {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_emo_cool.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_emo_cool.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_copy.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_copy.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_font_faces.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_font_faces.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_document.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_document.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_android.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_android.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_copy.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_copy.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_phone_incoming.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_phone_incoming.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_android.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_android.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_mouse.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_mouse.png"
     },
     {
-        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_ticket.png",
-        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_ticket.png"
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_phone_incoming.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_phone_incoming.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_heart.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_heart.png"
+    },
+    {
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_ticket.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_ticket.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_micoff.png",
@@ -738,6 +738,10 @@
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_folder_tabs.png",
         "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/plight_ic_action_folder_tabs.png"
+    },
+    {
+        "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/pivx_icon.png",
+        "source": "/home/jonathan/Desktop/pivx_android/app/src/main/res/drawable-hdpi/pivx_icon.png"
     },
     {
         "merged": "/home/jonathan/Desktop/pivx_android/app/build/intermediates/res/merged/debug/drawable-hdpi/plight_ic_action_train.png",
